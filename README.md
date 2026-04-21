@@ -167,7 +167,7 @@ Video demo quá trình:
 
 | Trang đăng nhập | Đăng nhập Google | Trang thông tin cá nhân |
 |---|---|---|
-| ![Trang đăng nhập](screenshots/login.png) | ![Đăng nhập Google](screenshots/google.png) | ![Trang thông tin cá nhân](screenshots/home.png) |
+| ![Trang đăng nhập](https://raw.githubusercontent.com/NguyenDat-1010/Login_GG_FB/master/screenshots/login.png) | ![Đăng nhập Google](https://raw.githubusercontent.com/NguyenDat-1010/Login_GG_FB/master/screenshots/google.png) | ![Trang thông tin cá nhân](https://raw.githubusercontent.com/NguyenDat-1010/Login_GG_FB/master/screenshots/home.png) |
 
 ---
 
