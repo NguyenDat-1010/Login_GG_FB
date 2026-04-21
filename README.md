@@ -163,6 +163,14 @@ Video demo quá trình:
 
 ---
 
+## 🖼️ Ảnh Demo
+
+| Trang đăng nhập | Đăng nhập Google | Trang thông tin cá nhân |
+|---|---|---|
+| ![Trang đăng nhập](screenshots/login.png) | ![Đăng nhập Google](screenshots/google.png) | ![Trang thông tin cá nhân](screenshots/home.png) |
+
+---
+
 ## 📝 License
 
 MIT License.
